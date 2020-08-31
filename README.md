@@ -4,5 +4,5 @@ This is an example of [React JS Fundamental Courses](https://nomadcoders.co/reac
 
 I used these open sources on github
 
-- [Creat React App](https://github.com/facebook/create-react-app)
+- [Create React App](https://github.com/facebook/create-react-app)
 - [Movies Dataset](https://github.com/serranoarevalo/yts-proxy)
